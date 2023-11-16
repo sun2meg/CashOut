@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/abouticon.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/abouticonactivity.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/arrowback.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back1.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back11.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back1now.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back1now55.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back2.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back2now.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/back3.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backText.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backbutton2.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backgreen.xml" value="0.1648148148148148" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backgroundwheel.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backgroundwheel2.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backlog.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backreedem.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backreedemkeyboard.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backscreen.xml" value="0.16" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backtext.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backwheel.xml" value="0.16944444444444445" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/backwheelbut.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/coinbakground.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/coinmain.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/contacticon.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/contacticonactivate.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/crossback.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/dailycheckmain.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/dot.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/dotgray.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/ic_groupdailycheckmain.xml" value="0.1125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructionbanner.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructiondailycheck.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructionicon.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructioniconactivate.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructionplayvideo.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructionreedeming.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/instructionspin.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/navbar.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/smalladsmain.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/spin.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/spinmain.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/watchvideomain.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/drawable/wheel.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/font/aldrich.xml" value="0.1425925925925926" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h400dp-port/activity_choice_selection.xml" value="0.375" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h500dp-port/activity_choice_selection.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h500dp/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h500dp/activity_splash_screen.xml" value="0.23125" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h600dp-port/activity_choice_selection.xml" value="0.25" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h600dp/activity_redeem.xml" value="0.2" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h600dp/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h600dp/activity_splash_screen.xml" value="0.15" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h700dp-port/activity_choice_selection.xml" value="0.15" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h800dp-port/activity_choice_selection.xml" value="0.4521452145214521" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout-h900dp-port/activity_choice_selection.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_about.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_agree.xml" value="0.16187594553706505" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_banner.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_choice_selection.xml" value="0.18" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_contact.xml" value="0.33" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_daily_checkins.xml" value="0.18" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_emailpassword.xml" value="0.25" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_instructions.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_link_account.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_lucky_wheel.xml" value="0.18" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_no_internet.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_redeem.xml" value="0.25" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_redeem_pay_tm.xml" value="0.21" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_redeem_pay_tm2.xml" value="0.25" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_settings.xml" value="0.1" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_splash_screen.xml" value="0.15572916666666667" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/app/src/main/res/layout/activity_welcome.xml" value="0.11145833333333334" />
+        <entry key="..\:/Users/Mega/AndroidStudioProjects/CashOut/luckyWheel/src/main/res/layout/lucky_wheel_layout.xml" value="0.11145833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

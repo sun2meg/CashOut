@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#8BC34A"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/logo"
+
+        style="@style/CustomLogoImageView"
+        android:contentDescription="@string/Mon_app_name" />
+
+    <!-- Email EditText -->
+    <EditText
+        android:layout_marginTop="46dp"
+        android:layout_below="@id/logo"
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/backtext"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/black" />
+
+    <!-- Password EditText -->
+
+    <!-- Forgot Password Button -->
+    <Button
+        android:id="@+id/buttonForgotPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editTextEmail"
+        android:layout_marginTop="16dp"
+        android:background="#FFC107"
+        android:text="Forgot Password" />
+
+</RelativeLayout>
+
+

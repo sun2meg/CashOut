@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "405731146773",
+    "project_id": "cashout-19f27",
+    "storage_bucket": "cashout-19f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405731146773:android:4ec0c9710d0e6f3912a21c",
+        "android_client_info": {
+          "package_name": "com.megacoreapps.cashout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAJCTQPHeVt1MQhG9xOvUVy6sFDYAcApE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
